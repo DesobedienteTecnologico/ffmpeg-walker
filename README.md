@@ -7,4 +7,4 @@ Use ffmpeg recursively and save time!
     chmod +x ffmpeg_walker.py
   
 ### Program execution example:
-    ./ffmpeg_walker.py Videos
+    ./ffmpeg_walker.py Videos/
